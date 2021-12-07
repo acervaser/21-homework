@@ -8,7 +8,7 @@ import {
 } from "react-router-dom"
 import Invoices from './routes/invoices';
 import Expenses from './routes/expenses';
-import App from './App';
+import App from './Menu';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
