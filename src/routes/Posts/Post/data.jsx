@@ -1,4 +1,4 @@
-const invoices = [
+const data = [
     {
       name: "Santa Monica",
       number: 1995,
@@ -31,6 +31,6 @@ const invoices = [
     }
   ];
   
-  export function getInvoices() {
-    return invoices;
+  export function getData() {
+    return data;
   }
