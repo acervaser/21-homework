@@ -10,10 +10,10 @@ export default function App() {
         <>
             <Menu />
             <Routes>
-                 <Route path="/contacts" element={<Contacts />} />
-                <Route path="/posts" element={<Posts />} />
-                <Route path="/photos" element={<Photos />} />
-                <Route path="/" exact element={<Home />} />
+                 <Route path="/21-homework/contacts" element={<Contacts />} />
+                <Route path="/21-homework/posts" element={<Posts />} />
+                <Route path="/21-homework/photos" element={<Photos />} />
+                <Route path="/21-homework/" exact element={<Home />} />
             </Routes>
         </>
     );

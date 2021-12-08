@@ -5,10 +5,10 @@ import './Menu.css';
 export default function Menu() {
   return (
     <nav className="menu">
-    <Link to="/" className="link-nav">Home</Link>
-    <Link to="/contacts" className="link-nav">Contacts</Link>
+    <Link to="/21-homework/" className="link-nav">Home</Link>
+    <Link to="/21-homework/contacts" className="link-nav">Contacts</Link>
     <Link to="/posts" className="link-nav">Posts</Link>
-    <Link to="/photos" className="link-nav">Photos</Link>
+    <Link to="/21-homework/photos" className="link-nav">Photos</Link>
 </nav>
   );
 }
