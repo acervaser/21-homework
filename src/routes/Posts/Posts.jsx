@@ -1,15 +1,15 @@
 import './Posts.css';
-import Post from '../Post/Post';
-import POSTS_DATA from './Data';
-import Nav from '../Nav/Nav';
+import Post from './Post/Post';
+
+
 
 export default function Posts(){
 
     return (
         <>
-            <Nav />
+           
             <div className="posts">
-                {
+                {/* {
                 POSTS_DATA.map((post) => {
                     return <Post 
                     author={post.author}
@@ -18,7 +18,7 @@ export default function Posts(){
                     date={post.date}
                     />
                 })
-                }
+                } */}
             </div>
         </>
     );

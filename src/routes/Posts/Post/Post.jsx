@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Post ({ name, photo, nickname, date, photo})  {
+export default function Post ({ name, photo, nickname, date, image , content})  {
     return (
           <div className="post">
                     <div className="wrapper">
