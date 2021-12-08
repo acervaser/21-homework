@@ -1,5 +1,5 @@
 import React from "react";
-
+import './Home.css';
 
 export default function Home() {
   return (
@@ -10,7 +10,7 @@ export default function Home() {
         ані урок, де чогось можна навчитися. А також бажаю стрункого тілa,
         товстого гаманця, маленької яхти, маленької вілли і маленького мільйонного
         статку!</p>
-      {/* <img src={newYour} className="image" alt="gfg"></img> */}
+       <img src="../../assets/images/post-images/27539.jpg" className="image" alt="gfg"></img> *
     </div>
   );
 }

@@ -1,16 +1,16 @@
 import './Posts.css';
-import Post from './Post/Post';
-
+import Post from '../Post/Post';
+import { getData } from '../Post/data';
 
 
 export default function Posts(){
-
+let postData = getData();
     return (
         <>
            
             <div className="posts">
-                {/* {
-                POSTS_DATA.map((post) => {
+                 {
+                 postData.map((post) => {
                     return <Post 
                     author={post.author}
                     content={post.content}
@@ -18,7 +18,7 @@ export default function Posts(){
                     date={post.date}
                     />
                 })
-                } */}
+                } 
             </div>
         </>
     );

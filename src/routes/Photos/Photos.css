@@ -1,4 +1,6 @@
+
 .photos{
+   background-color: #282c34; ;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
