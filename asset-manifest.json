@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/21-homework/static/css/main.a617e044.chunk.css",
-    "main.js": "/21-homework/static/js/main.067c5e0b.chunk.js",
-    "main.js.map": "/21-homework/static/js/main.067c5e0b.chunk.js.map",
-    "runtime-main.js": "/21-homework/static/js/runtime-main.489cfa0e.js",
-    "runtime-main.js.map": "/21-homework/static/js/runtime-main.489cfa0e.js.map",
-    "static/js/2.46a2a203.chunk.js": "/21-homework/static/js/2.46a2a203.chunk.js",
-    "static/js/2.46a2a203.chunk.js.map": "/21-homework/static/js/2.46a2a203.chunk.js.map",
-    "static/js/3.e83ac7d5.chunk.js": "/21-homework/static/js/3.e83ac7d5.chunk.js",
-    "static/js/3.e83ac7d5.chunk.js.map": "/21-homework/static/js/3.e83ac7d5.chunk.js.map",
+    "main.css": "/21-homework/static/css/main.8b011953.chunk.css",
+    "main.js": "/21-homework/static/js/main.d91b1ee5.chunk.js",
+    "main.js.map": "/21-homework/static/js/main.d91b1ee5.chunk.js.map",
+    "runtime-main.js": "/21-homework/static/js/runtime-main.4be2ea23.js",
+    "runtime-main.js.map": "/21-homework/static/js/runtime-main.4be2ea23.js.map",
+    "static/js/2.a42cfa94.chunk.js": "/21-homework/static/js/2.a42cfa94.chunk.js",
+    "static/js/2.a42cfa94.chunk.js.map": "/21-homework/static/js/2.a42cfa94.chunk.js.map",
     "index.html": "/21-homework/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/21-homework/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.46a2a203.chunk.js.LICENSE.txt": "/21-homework/static/js/2.46a2a203.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/21-homework/static/media/logo.6ce24c58.svg"
+    "static/css/main.8b011953.chunk.css.map": "/21-homework/static/css/main.8b011953.chunk.css.map",
+    "static/js/2.a42cfa94.chunk.js.LICENSE.txt": "/21-homework/static/js/2.a42cfa94.chunk.js.LICENSE.txt",
+    "static/media/1577923864_0_0_1878_1878_1920x0_80_0_0_6afbaa3b920f30d7d4a2f8333d523d8b.80a342a8.jpg": "/21-homework/static/media/1577923864_0_0_1878_1878_1920x0_80_0_0_6afbaa3b920f30d7d4a2f8333d523d8b.80a342a8.jpg",
+    "static/media/2017-12-28-17-00-18.62f70924.jpg": "/21-homework/static/media/2017-12-28-17-00-18.62f70924.jpg",
+    "static/media/960x540.8fcbf7ba.jpg": "/21-homework/static/media/960x540.8fcbf7ba.jpg",
+    "static/media/Pulp-Fiction.849454ad.jpg": "/21-homework/static/media/Pulp-Fiction.849454ad.jpg",
+    "static/media/main.8d2d0768.jpg": "/21-homework/static/media/main.8d2d0768.jpg",
+    "static/media/regular_detail_picture-ab15d73582f1eea00b0c3e8bd030ecaa.6385c8f6.jpg": "/21-homework/static/media/regular_detail_picture-ab15d73582f1eea00b0c3e8bd030ecaa.6385c8f6.jpg",
+    "static/media/unnamed.f4d73960.jpg": "/21-homework/static/media/unnamed.f4d73960.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.489cfa0e.js",
-    "static/js/2.46a2a203.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.067c5e0b.chunk.js"
+    "static/js/runtime-main.4be2ea23.js",
+    "static/js/2.a42cfa94.chunk.js",
+    "static/css/main.8b011953.chunk.css",
+    "static/js/main.d91b1ee5.chunk.js"
   ]
 }
