@@ -1,34 +1,20 @@
 const data = [
     {
-      name: "Santa Monica",
-      number: 1995,
-      amount: "$10,800",
-      due: "12/05/1995"
+      name: "Вінсент Вега",
+      photo: "https://fanfics.me/images/fandoms_heroes/739-1494189831.jpg",
+      nickname: "@Joseph_Travolta",
+      date: "12/05/1995",
+      image:"https://cs8.pikabu.ru/post_img/big/2016/04/09/11/1460227936183652465.jpg",
+      content:"I dance really well?"
     },
     {
-      name: "Stankonia",
-      number: 2000,
-      amount: "$8,000",
-      due: "10/31/2000"
+      name: "Вінсент Вега",
+      photo: "https://fanfics.me/images/fandoms_heroes/739-1494189830.jpg",
+      nickname: "@Nick_Fury",
+      date: "12/05/1995",
+      image:"https://www.kino-teatr.ru/art/2737/27527.jpg",
+      content:"I think you are a better shooter than a dancer"
     },
-    {
-      name: "Ocean Avenue",
-      number: 2003,
-      amount: "$9,500",
-      due: "07/22/2003"
-    },
-    {
-      name: "Tubthumper",
-      number: 1997,
-      amount: "$14,000",
-      due: "09/01/1997"
-    },
-    {
-      name: "Wide Open Spaces",
-      number: 1998,
-      amount: "$4,600",
-      due: "01/27/2998"
-    }
   ];
   
   export function getData() {

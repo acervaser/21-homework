@@ -12,7 +12,9 @@ let postData = getData();
                  {
                  postData.map((post) => {
                     return <Post 
-                    author={post.author}
+                    name={post.name}
+                    nickname={post.nickname}
+                    photo={post.photo}
                     content={post.content}
                     image={post.image}
                     date={post.date}

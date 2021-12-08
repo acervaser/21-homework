@@ -1,9 +1,4 @@
-body {
-    padding: 20px;
-    color: white;
-    background-color: rgb(230, 225, 220);
-    font-size: 28px;
-   }
+
   .post {
     width: 70%;
     height: auto;
@@ -23,9 +18,10 @@ body {
   .user-image{
   
     position: relative;
-    top: -60px;
+    top: -50px;
     border-radius: 50%;
     width: 100px;
+    height: 100px;
     grid-column-start: 0;
     grid-column-end: 1;
     grid-row-start: 0;
@@ -73,8 +69,11 @@ body {
   }
   
   .post-image {
-    width: 85%;
+    width: 80%;
     margin: 0 0 0 110px;
     border-radius: 20px;
+  }
+  span{
+    font-size: 18px;
   }
   
